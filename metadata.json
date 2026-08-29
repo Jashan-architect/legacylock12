@@ -1,0 +1,6 @@
+{
+  "name": "LegacyLock",
+  "description": "Zero-knowledge digital estate organization, encrypted vault management, and regulatory-aligned continuity protocol execution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
